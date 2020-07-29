@@ -1,5 +1,12 @@
-### Hi there 👋
+![](https://cdn.discordapp.com/attachments/534962934053601280/737888262282280970/cent_copy.png)
 
+Hello all, My name is Cent and I'm a full stack developer. I'm currently working towards getting my first tech job. I occasionaly stream and if you're interested in getting to know more about me, then check out the links below!
+
+---
+
+- [Twitter](https://twitter.com/centanomics)
+- [Twitch](https://www.twitch.tv/centanomics)
+- [dev.to](https://dev.to/centanomics)
 <!--
 **centanomics/centanomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
