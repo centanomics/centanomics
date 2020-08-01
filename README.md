@@ -1,4 +1,4 @@
-![http://centanomics.dev](https://cdn.discordapp.com/attachments/534962934053601280/737888262282280970/cent_copy.png)
+[![](https://cdn.discordapp.com/attachments/534962934053601280/737888262282280970/cent_copy.png)](https://centanomics.dev)
 
 # Hello, all! 👋
 
