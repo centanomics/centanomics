@@ -2,11 +2,16 @@
 
 # Hello, all! 👋
 
-Hello all, My name is Cent and I'm a full stack developer. I'm currently working towards getting my first tech job.
+Hello all, My name is Cent and I'm a full stack developer. I'm currently working towards getting my first tech job. I am from and currently living in Georgia (The State). If you're interested in following my journey you can find me on [Twitter](https://twitter.com/centanomics), [Dev.to](https://dev.to/centanomics), and [LinkedIn](https://www.linkedin.com/in/shannon-myers-358b5814b)
 
 ## Stream
 
 I occasionally stream myself working on side project, and, rarely, playing games. You can check out my past streams on [Twitch](https://www.twitch.tv/centanomics)
+
+## Technologies  & Tools
+
+## Github Stats
+
 <!--
 **centanomics/centanomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
