@@ -2,15 +2,39 @@
 
 # Hello, all! 👋
 
-Hello all, My name is Cent and I'm a full stack developer. I'm currently working towards getting my first tech job. I am from and currently living in Georgia (The State). If you're interested in following my journey you can find me on [Twitter](https://twitter.com/centanomics), [Dev.to](https://dev.to/centanomics), and [LinkedIn](https://www.linkedin.com/in/shannon-myers-358b5814b)
+Hello all, My name is Cent and I'm a full stack developer. I'm currently working towards getting my first tech job. I am from and currently living in Georgia (The State). If you're interested in following my journey you can find me on [![Twitter][1.1]][1] , [![Dev.to][2.1]][2] , and [![LinkedIn][3.1]][3] .
 
 ## Stream
 
-I occasionally stream myself working on side project, and, rarely, playing games. You can check out my past streams on [Twitch](https://www.twitch.tv/centanomics)
+I occasionally stream myself working on side project, and, rarely, playing games. You can check out my past streams on [![Twitch][4.1]][4] .
 
 ## Technologies  & Tools
+![](https://img.shields.io/badge/OS-MacOs-blue?logo=apple&logoColor=white)
+![](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code&logoColor=white)
+![](https://img.shields.io/badge/Shell-Oh%20My%20Zsh-blue)
+![](https://img.shields.io/badge/Code-JavaScript-blue?logo=javascript&logoColor=white)
+![](https://img.shields.io/badge/Code-React-blue?logo=react&logoColor=white)
+![](https://img.shields.io/badge/Code-Redux-blue?logo=Redux&logoColor=white)
+![](https://img.shields.io/badge/Code-NodeJS-blue?logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/Tools-PostgreSQL-blue?logo=PostgreSQL&logoColor=white)
+![](https://img.shields.io/badge/Tools-MongoDB-blue?logo=mongodb&logoColor=white)
+![](https://img.shields.io/badge/Tools-Figma-blue?logo=figma&logoColor=white)
+![](https://img.shields.io/badge/Tools-Git-blue?logo=git&logoColor=white)
 
 ## Github Stats
+
+
+<!-- links to socials twitter, dev, link, twitch -->
+[1]: https://twitter.com/centanomics
+[2]: https://dev.to/centanomics
+[3]: https://www.linkedin.com/in/shannon-myers-358b5814b
+[4]: https://www.twitch.tv/centanomics
+
+<!-- links to social icons twitter, dev, link, twitch -->
+[1.1]: https://i.imgur.com/hdSH4yD.png
+[2.1]: https://i.imgur.com/Z7PVgoV.png
+[3.1]: https://i.imgur.com/BGw5Ra3.png
+[4.1]: https://i.imgur.com/tcgjtDD.png
 
 <!--
 **centanomics/centanomics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
