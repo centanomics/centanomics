@@ -23,6 +23,11 @@ I occasionally stream myself working on side project, and, rarely, playing games
 
 ## Github Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=centanomics&layout=compact)](https://github.com/centanomics/centanomics)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=centanomics&show_icons=true)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=centanomics&repo=bujo)](https://github.com/anuraghazra/github-readme-stats)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=centanomics&repo=penny)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!-- links to socials twitter, dev, link, twitch -->
 [1]: https://twitter.com/centanomics
