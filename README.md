@@ -8,6 +8,11 @@ Hello all, My name is Cent and I'm a full stack developer. I'm currently working
 
 I occasionally stream myself working on side project, and, rarely, playing games. You can check out my past streams on [![Twitch][4.1]][4] .
 
+### Latest Streams
+
+<!-- TWITCH:START -->
+<!-- TWITCH:END -->
+
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
