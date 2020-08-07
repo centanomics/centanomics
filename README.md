@@ -16,6 +16,7 @@ I occasionally stream myself working on side project, and, rarely, playing games
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [So I'm working on adding blog posts to my Github README...](https://dev.to/centanomics/so-i-m-working-on-adding-blog-posts-to-my-github-readme-53mk)
 <!-- BLOG-POST-LIST:END -->
 
 ## Technologies & Tools
