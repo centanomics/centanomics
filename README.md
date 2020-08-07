@@ -8,7 +8,13 @@ Hello all, My name is Cent and I'm a full stack developer. I'm currently working
 
 I occasionally stream myself working on side project, and, rarely, playing games. You can check out my past streams on [![Twitch][4.1]][4] .
 
-## Technologies  & Tools
+## Latest Blog Posts
+
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
+## Technologies & Tools
+
 ![](https://img.shields.io/badge/OS-MacOs-blue?logo=apple&logoColor=white)
 ![](https://img.shields.io/badge/Editor-VSCode-blue?logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/Shell-Oh%20My%20Zsh-blue)
@@ -28,14 +34,15 @@ I occasionally stream myself working on side project, and, rarely, playing games
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=centanomics&repo=bujo)](https://github.com/anuraghazra/github-readme-stats)
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=centanomics&repo=penny)](https://github.com/anuraghazra/github-readme-stats)
 
-
 <!-- links to socials twitter, dev, link, twitch -->
+
 [1]: https://twitter.com/centanomics
 [2]: https://dev.to/centanomics
 [3]: https://www.linkedin.com/in/shannon-myers-358b5814b
 [4]: https://www.twitch.tv/centanomics
 
 <!-- links to social icons twitter, dev, link, twitch -->
+
 [1.1]: https://i.imgur.com/hdSH4yD.png
 [2.1]: https://i.imgur.com/Z7PVgoV.png
 [3.1]: https://i.imgur.com/BGw5Ra3.png
