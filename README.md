@@ -14,7 +14,6 @@ I occasionally stream myself working on side project, and, rarely, playing games
 - [discordjs and chill](https://www.twitch.tv/videos/704390704)
 - [More discord bot stuff. feel free to give suggestions in chat](https://www.twitch.tv/videos/678792007)
 - [trying to get this one command to work before i go to work](https://www.twitch.tv/videos/675470770)
-- [man go ooga booga and jam css onto website](https://www.twitch.tv/videos/665070729)
 <!-- TWITCH:END -->
 
 ## Latest Blog Posts
