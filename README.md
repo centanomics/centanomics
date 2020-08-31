@@ -19,6 +19,7 @@ I occasionally stream myself working on side project, and, rarely, playing games
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Two Cents - Routes](https://dev.to/centanomics/daily-two-cents-routes-1olo)
 - [Daily Two Cents - Express](https://dev.to/centanomics/daily-two-cents-express-2l9i)
 - [Daily Two Cents - Beginnings](https://dev.to/centanomics/daily-two-cents-beginnings-20j0)
 - [So I'm working on adding blog posts to my Github README...](https://dev.to/centanomics/so-i-m-working-on-adding-blog-posts-to-my-github-readme-53mk)
