@@ -12,7 +12,6 @@ I occasionally stream myself working on side project, and, rarely, playing games
 
 <!-- TWITCH:START -->
 - [discordjs and chill](https://www.twitch.tv/videos/704390704)
-- [More discord bot stuff. feel free to give suggestions in chat](https://www.twitch.tv/videos/678792007)
 <!-- TWITCH:END -->
 
 ## Latest Blog Posts
