@@ -17,11 +17,11 @@ I occasionally stream myself working on side project, and, rarely, playing games
 ## Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Daily Two Cents - Progress](https://dev.to/centanomics/daily-two-cents-progress-2389)
 - [Daily Two Cents - List](https://dev.to/centanomics/daily-two-cents-list-156j)
 - [Daily Two Cents - Subtle](https://dev.to/centanomics/daily-two-cents-subtle-2nhn)
 - [Daily Two Cents - Media](https://dev.to/centanomics/daily-two-cents-media-28jh)
 - [Daily Two Cents - Spring](https://dev.to/centanomics/daily-two-cents-spring-4oc2)
-- [Daily Two Cents - Portfolio](https://dev.to/centanomics/daily-two-cents-portfolio-519g)
 <!-- BLOG-POST-LIST:END -->
 
 ## Technologies & Tools
