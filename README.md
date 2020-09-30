@@ -11,6 +11,7 @@ I occasionally stream myself working on side project, and, rarely, playing games
 ### Latest Streams
 
 <!-- TWITCH:START -->
+- [I want wendys - LIVE](http://www.twitch.tv/centanomics)
 - [1 braincell to rule them all](https://www.twitch.tv/videos/754193433)
 - [discordjs and chill](https://www.twitch.tv/videos/704390704)
 <!-- TWITCH:END -->
