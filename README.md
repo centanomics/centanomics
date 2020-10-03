@@ -11,7 +11,7 @@ I occasionally stream myself working on side project, and, rarely, playing games
 ### Latest Streams
 
 <!-- TWITCH:START -->
-- [Coding while I wait for my pizza to get here - LIVE](http://www.twitch.tv/centanomics)
+- [Coding while I wait for my pizza to get here](https://www.twitch.tv/videos/758961788)
 - [I want wendys](https://www.twitch.tv/videos/755975975)
 - [1 braincell to rule them all](https://www.twitch.tv/videos/754193433)
 - [discordjs and chill](https://www.twitch.tv/videos/704390704)
