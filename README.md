@@ -11,7 +11,7 @@ I occasionally stream myself working on side project, and, rarely, playing games
 ### Latest Streams
 
 <!-- TWITCH:START -->
-- [remaking a childhood classic - LIVE](http://www.twitch.tv/centanomics)
+- [remaking a childhood classic](https://www.twitch.tv/videos/778852130)
 - [remaking a childhood classic](https://www.twitch.tv/videos/778849161)
 - [broom and mop stream](https://www.twitch.tv/videos/761947516)
 - [Coding while I wait for my pizza to get here](https://www.twitch.tv/videos/758961788)
