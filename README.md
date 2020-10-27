@@ -11,11 +11,11 @@ I occasionally stream myself working on side project, and, rarely, playing games
 ### Latest Streams
 
 <!-- TWITCH:START -->
+- [More side project stuff - LIVE](http://www.twitch.tv/centanomics)
 - [socket.io](https://www.twitch.tv/videos/781958254)
 - [remaking a childhood classic](https://www.twitch.tv/videos/778852130)
 - [remaking a childhood classic](https://www.twitch.tv/videos/778849161)
 - [broom and mop stream](https://www.twitch.tv/videos/761947516)
-- [Coding while I wait for my pizza to get here](https://www.twitch.tv/videos/758961788)
 <!-- TWITCH:END -->
 
 ## Latest Blog Posts
