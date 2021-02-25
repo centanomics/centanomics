@@ -11,11 +11,9 @@ I occasionally stream myself working on side project, and, rarely, playing games
 ### Latest Streams
 
 <!-- TWITCH:START -->
-- [More side project stuff](https://www.twitch.tv/videos/783546420)
-- [socket.io](https://www.twitch.tv/videos/781958254)
-- [remaking a childhood classic](https://www.twitch.tv/videos/778852130)
-- [remaking a childhood classic](https://www.twitch.tv/videos/778849161)
-- [broom and mop stream](https://www.twitch.tv/videos/761947516)
+- [Coding until LoR reveals - LIVE](http://www.twitch.tv/centanomics)
+- [zzz](https://www.twitch.tv/videos/878383954)
+- [New year lets goooooooooo](https://www.twitch.tv/videos/867113144)
 <!-- TWITCH:END -->
 
 ## Latest Blog Posts
