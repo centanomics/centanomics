@@ -11,7 +11,8 @@ I occasionally stream myself working on side project, and, rarely, playing games
 ### Latest Streams
 
 <!-- TWITCH:START -->
-- [Coding until LoR reveals - LIVE](http://www.twitch.tv/centanomics)
+- [Coding until LoR reveals](https://www.twitch.tv/videos/927908044)
+- [Coding until LoR reveals](https://www.twitch.tv/videos/927818788)
 - [zzz](https://www.twitch.tv/videos/878383954)
 - [New year lets goooooooooo](https://www.twitch.tv/videos/867113144)
 <!-- TWITCH:END -->
