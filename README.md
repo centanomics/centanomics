@@ -11,7 +11,7 @@ I occasionally stream myself working on side project, and, rarely, playing games
 ### Latest Streams
 
 <!-- TWITCH:START -->
-- [Relearning Gatsby and maybe css grid later - LIVE](http://www.twitch.tv/centanomics)
+- [Relearning Gatsby and maybe css grid later](https://www.twitch.tv/videos/945288952)
 - [More coding until LoR reveals](https://www.twitch.tv/videos/929036459)
 - [Coding until LoR reveals](https://www.twitch.tv/videos/927908044)
 - [Coding until LoR reveals](https://www.twitch.tv/videos/927818788)
