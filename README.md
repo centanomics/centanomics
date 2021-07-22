@@ -1,6 +1,6 @@
 [![](https://i.imgur.com/oNbOYBf.png)](https://centanomics.dev)
 
-# Hello, all! 👋
+# Hello, everyone! 👋
 
 Hello all, My name is Cent and I'm a full stack developer. I'm currently working towards getting my first tech job. I am from and currently living in Georgia (The State). If you're interested in following my journey you can find me on [![Twitter][1.1]][1] , [![Dev.to][2.1]][2] , and [![LinkedIn][3.1]][3] .
 
