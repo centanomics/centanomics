@@ -11,7 +11,7 @@ I occasionally stream myself working on side project, and, rarely, playing games
 ### Latest Streams
 
 <!-- TWITCH:START -->
-- [We're bringing back the coding sessions - LIVE](http://www.twitch.tv/centanomics)
+- [We're bringing back the coding sessions](https://www.twitch.tv/videos/1094557518)
 - [Minecraft with the boys](https://www.twitch.tv/videos/1094279854)
 <!-- TWITCH:END -->
 
