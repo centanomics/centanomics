@@ -14,7 +14,7 @@ I occasionally stream myself working on side project, and, rarely, playing games
 - [Test stream to see if the my github workflow is working again](https://www.twitch.tv/videos/1178111291)
 <!-- TWITCH:END -->
 
-## Latest Blog Posts
+### Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [Daily Two Cents - Bujo](https://dev.to/centanomics/daily-two-cents-bujo-1jib)
