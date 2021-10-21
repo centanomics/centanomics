@@ -11,7 +11,7 @@ I occasionally stream myself working on side project, and, rarely, playing games
 ### Latest Streams
 
 <!-- TWITCH:START -->
-- [Running it for 90 mins - LIVE](https://www.twitch.tv/centanomics)
+- [Running it for 90 mins](https://www.twitch.tv/videos/1182855774)
 - [Test stream to see if the my github workflow is working again](https://www.twitch.tv/videos/1178111291)
 <!-- TWITCH:END -->
 
