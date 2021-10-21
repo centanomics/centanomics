@@ -6,7 +6,7 @@ Hello all, My name is Cent and I'm a full stack developer. I'm currently working
 
 ## Stream
 
-I occasionally stream myself working on side project, and, rarely, playing games. You can check out my past streams on [![Twitch][4.1]][4] .
+I occasionally stream myself working on side project, and, rarely, playing games. You can check out my past streams on [![Twitch][4.1]][4] . I don't have a consistent schedule at the moment, but you'll always be notified when I go live via Twitter.
 
 ### Latest Streams
 
