@@ -2,11 +2,11 @@
 
 # Hello, everyone! 👋
 
-Hello all, My name is Cent and I'm a full stack developer. I'm currently working towards getting my first tech job. I am from and currently living in Georgia (The State). If you're interested in following my journey you can find me on [![Twitter][1.1]][1] , [![Dev.to][2.1]][2] , and [![LinkedIn][3.1]][3] .
+Hello all, My name is Shannon, you can call me Cent, and I'm a full stack developer. I'm currently working towards getting my first tech job. I am from and currently living in Georgia (The State). If you're interested in following my journey you can find me on [![Twitter][1.1]][1] , [![Dev.to][2.1]][2] , and [![LinkedIn][3.1]][3] .
 
 ## Stream
 
-I occasionally stream myself working on side project, and, rarely, playing games. You can check out my past streams on [![Twitch][4.1]][4] . I don't have a consistent schedule at the moment, but you'll always be notified when I go live via Twitter.
+I occasionally stream myself working on side project, and, rarely, playing games. You can check out my past streams on [![Twitch][4.1]][4] . I don't have a consistent schedule at the moment, but you'll always be notified when I go live via Twitter!
 
 ### Latest Streams
 
