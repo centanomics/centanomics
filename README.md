@@ -12,7 +12,6 @@ I occasionally stream myself working on side project, and, rarely, playing games
 
 <!-- TWITCH:START -->
 - [I am a coding Jenius](https://www.twitch.tv/videos/1183752465)
-- [Running it for 90 mins](https://www.twitch.tv/videos/1182855774)
 <!-- TWITCH:END -->
 
 ### Latest Blog Posts
