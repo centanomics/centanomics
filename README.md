@@ -8,7 +8,7 @@ Hello all, My name is Shannon, you can call me Cent, and I'm a full stack develo
 
 I occasionally stream myself working on side project, and, rarely, playing games. You can check out my past streams on [![Twitch][4.1]][4] . I don't have a consistent schedule at the moment, but you'll always be notified when I go live via Twitter!
 
-## Latest Streams
+### Latest Streams
 
 <!-- TWITCH:START -->
 - [I am a coding Jenius](https://www.twitch.tv/videos/1183752465)
